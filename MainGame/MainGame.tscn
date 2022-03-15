@@ -232,6 +232,9 @@ position = Vector2( -3144.78, 474.127 )
 [node name="Enemy45" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3632.38, 399.926 )
 
+[node name="Enemy58" parent="Enemies" instance=ExtResource( 3 )]
+position = Vector2( -3819.29, 274.817 )
+
 [node name="Enemy46" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3115.63, 598.679 )
 
@@ -241,6 +244,12 @@ position = Vector2( -3515.78, 521.828 )
 [node name="Enemy48" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3375.33, 301.875 )
 
+[node name="Enemy57" parent="Enemies" instance=ExtResource( 3 )]
+position = Vector2( -3735.85, 532.379 )
+
+[node name="Enemy56" parent="Enemies" instance=ExtResource( 3 )]
+position = Vector2( -3812.46, 405.881 )
+
 [node name="Enemy49" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3152.73, 214.424 )
 
@@ -249,6 +258,12 @@ position = Vector2( -3385.93, 198.524 )
 
 [node name="Enemy51" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3428.33, 405.227 )
+
+[node name="Enemy55" parent="Enemies" instance=ExtResource( 3 )]
+position = Vector2( -3675.34, 183.451 )
+
+[node name="Enemy54" parent="Enemies" instance=ExtResource( 3 )]
+position = Vector2( -3535.35, 287.655 )
 
 [node name="Enemy52" parent="Enemies" instance=ExtResource( 3 )]
 position = Vector2( -3298.48, 556.278 )
