@@ -20,7 +20,7 @@ script = ExtResource( 4 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
-countdownMax = 70
+countdownMax = 10
 
 [node name="HUD" type="HBoxContainer" parent="."]
 margin_right = 40.0
@@ -49,6 +49,20 @@ margin_top = 13.0
 margin_right = 102.0
 margin_bottom = 27.0
 text = "0"
+
+[node name="HighScoreLabel" type="Label" parent="HUD"]
+margin_left = 106.0
+margin_top = 13.0
+margin_right = 174.0
+margin_bottom = 27.0
+text = "High Score"
+
+[node name="HighScore" type="Label" parent="HUD"]
+margin_left = 178.0
+margin_top = 13.0
+margin_right = 218.0
+margin_bottom = 27.0
+text = "11037"
 
 [node name="Border_Left" type="Area2D" parent="." groups=[
 "left",
