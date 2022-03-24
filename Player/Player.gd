@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-var vertical_speed = 10
+var vertical_speed = 0
 var bulletSource = preload ("res://Bullet/Bullet.tscn")
 # Declare member variables here. Examples:
 # var a = 2
